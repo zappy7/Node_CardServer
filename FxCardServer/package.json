@@ -1,0 +1,9 @@
+{
+  "name": "fx-card-server",
+  "version": "0.0.0",
+  "description": "FxCardServer",
+  "main": "server.js",
+  "author": {
+    "name": "Administrator"
+  }
+}
